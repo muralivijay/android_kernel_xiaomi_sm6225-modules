@@ -61,8 +61,8 @@
 #define CLK_HW_MAX                 0x1
 
 #define OPE_DEVICE_IDLE_TIMEOUT    400
-#define OPE_REQUEST_RT_TIMEOUT        200
-#define OPE_REQUEST_NRT_TIMEOUT        400
+#define OPE_REQUEST_RT_TIMEOUT        300
+#define OPE_REQUEST_NRT_TIMEOUT        500
 
 /**
  * struct cam_ope_clk_bw_request_v2
